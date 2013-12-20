@@ -2,7 +2,7 @@
 
 seriously, who doesn't love blue on hover?
 
-# installation
+## installation
 
 to install, drop the lib files into your app.
 
