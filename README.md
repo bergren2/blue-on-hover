@@ -1,4 +1,9 @@
-blue-on-hover
-=============
+# blue-on-hover.js
 
-as a user, i want it to be blue on hover.
+seriously, who doesn't love blue on hover?
+
+# installation
+
+to install, drop the lib files into your app.
+
+and most importantly, HAVE FUN.
